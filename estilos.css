@@ -25,3 +25,10 @@ body {
     text-align: center;
     color: rgb(255, 240, 240);
 }
+.img1{
+height: 300px;
+width: 300px;
+background-image: url("partes-circuitos-electricos.jpg");
+float: left;
+
+}
