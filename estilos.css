@@ -18,7 +18,7 @@
 
     font-size: 50px;
     text-align: center;
-    color: rgb(255, 240, 240);
+    color: rgb(255, 245, 245);
 }
 .img1{
 height: 300px;
@@ -29,11 +29,12 @@ float: left;
 
 }
 .img2{
-    height: 900px;
-    width: 600px;
+    height: 521px;
+    width: 900px;
     background-image: url("Mapa\ Mental\ Ideas\ yCreatividad\ Doodle\ Negro\ \(1\).jpg"); 
     background-repeat: no-repeat;
     float: left;
+
     
 }
 .imgc{
@@ -54,6 +55,51 @@ float: left;
 
     color: black;
 }
+.textosoc{
+    color: black;
+}
+.textomat{
+    color: black;
+    font-size: 50px;
+}
+.img3{ 
+    
+    background-image: url("8adb92c108546cffe4443b8baf2505e4.jpg");
+    height: 500px;
+    width: 700px;
+    background-repeat: no-repeat;
+    float: left;
+
+}
+.img4{
+
+    background-image: url("images\ \(3\).jpg");
+    height: 116px;
+    width: 300px;
+    background-repeat: no-repeat;
+    float: left;
+}
+.img5{
+
+    background-image: url("images\ \(2\).jpg");
+    height: 116px;
+    width: 520px;
+    background-repeat: no-repeat;
+    float: left;
+         }
+.img5{
+
+            background-image: url("44394747dc9a924f74d99925dc352b40.jpg");
+            height: 394px;
+            width: 721px;
+            background-repeat: no-repeat;
+            float: left;
+                 }
+
+   
+
+
+
 
 
 
